@@ -62,4 +62,36 @@
 | 07   | `0705_..._Logs.ipynb`                   | 對話紀錄功能           |
 | 07   | `0706_..._Image2Text.ipynb`             | 圖片轉文字             |
 | 07   | `0707_..._Text2Image.ipynb`             | 文字轉圖片             |
-| 07   |
+| 07   | `0708_..._Image2Video.ipynb`            | 圖片轉影片             |
+| 07   | `0709_..._Rag.ipynb`                    | RAG 檢索增強生成       |
+
+## 專案結構
+
+```
+├── Code/Colab/     # 課程範例程式（Jupyter Notebook）
+├── Ref/            # 參考資料（LINE Bot 開發指南等）
+├── Slides/         # 課程投影片
+└── README.md
+```
+
+## 技術架構
+
+- **語言**：Python
+- **Web 框架**：Flask
+- **LINE SDK**：line-bot-sdk
+- **AI 模型**：Google Gemini API
+- **通道工具**：ngrok / pyngrok
+- **開發環境**：Conda + VS Code / Google Colab
+
+## 上課日期
+
+每週五 09:10 ~ 12:00
+
+| 週次 | 日期       |
+| ---- | ---------- |
+| 1    | 2026/03/20 |
+| 2    | 2026/03/27 |
+| 3    | 2026/04/10 |
+| 4    | 2026/04/17 |
+| 5    | 2026/05/08 |
+| 6    | 2026/05/15 |
